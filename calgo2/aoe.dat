@@ -1,0 +1,20 @@
+13 17
+AB 10 Make_foundation
+BC  3 Add_subflooring
+CD 12 Frame_wall/roof
+DF  0 Dummy_1
+DK  2 Install_windows
+DE  6 Partition_rooms
+DJ  0 Dummy_2
+EG  0 Dummy_3
+EH  0 Dummy_4
+EI  0 Dummy_5
+FM  3 Add_sliding
+GK  4 Install_wiring
+HK  5 Install_plumbling
+IK  6 Install_doors
+JM  7 Shingle_roof
+KL  7 Paint_interior
+LM  2 Lay_carpeting
+
+
